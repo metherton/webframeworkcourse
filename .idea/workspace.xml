@@ -39,8 +39,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.3612099">
-              <caret line="224" column="64" selection-start-line="224" selection-start-column="64" selection-end-line="224" selection-end-column="64" />
+            <state vertical-scroll-proportion="0.30604982">
+              <caret line="117" column="109" selection-start-line="117" selection-start-column="109" selection-end-line="117" selection-end-column="109" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#label#0;n#div#0;n#form#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -127,6 +127,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="conFusion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conFusion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conFusion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -632,12 +646,12 @@
       <workItem from="1445897035906" duration="3588000" />
       <workItem from="1446066164046" duration="871000" />
       <workItem from="1446067945577" duration="11384000" />
-      <workItem from="1446162660059" duration="3264000" />
+      <workItem from="1446162660059" duration="4611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29673000" />
+    <option name="totallyTimeSpent" value="31020000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
@@ -891,8 +905,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.3612099">
-          <caret line="224" column="64" selection-start-line="224" selection-start-column="64" selection-end-line="224" selection-end-column="64" />
+        <state vertical-scroll-proportion="0.30604982">
+          <caret line="117" column="109" selection-start-line="117" selection-start-column="109" selection-end-line="117" selection-end-column="109" />
           <folding>
             <element signature="n#style#0;n#span#0;n#label#0;n#div#0;n#form#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
